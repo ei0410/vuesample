@@ -6,6 +6,8 @@ import page1 from '@/components/page1'
 import page2 from '@/components/page2'
 import button from '@/components/button'
 import form from '@/components/form'
+import transition from '@/components/transition'
+import table from '@/components/table'
 
 Vue.use(Router)
 
@@ -36,6 +38,16 @@ export default new Router({
       path: '/form',
       name: 'form',
       component: form 
+    },
+    {
+      path: '/transition',
+      name: 'transition',
+      component: transition
+    },
+    {
+      path: '/table',
+      name: 'table',
+      component: table 
     },
   ]
 })
