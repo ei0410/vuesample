@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>料理:</td>
-      <td class="gray">家庭料理・お菓子作り</td>
+      <td class="gray">家庭料理・お菓子</td>
     </tr>
   </table>
 

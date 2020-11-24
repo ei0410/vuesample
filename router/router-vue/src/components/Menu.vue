@@ -30,7 +30,7 @@ export default {
 
 ol {
   margin-left: auto;
-  width: 480px;
+  width: 360px;
   display:flex;
   justify-content: center;
   padding: 0;
@@ -40,9 +40,9 @@ ol {
 li {
   width: 100px;
   height: 50px;
-  margin-left:10px;
-  margin-right:10px;
-  font-size: 24px;
+  margin-left: 8px;
+  margin-right: 8px;
+  font-size: 18px;
   background-color: skyblue;
   border-radius: 8px;
   position: relative;
